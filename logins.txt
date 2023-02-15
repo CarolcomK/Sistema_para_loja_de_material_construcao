@@ -1,0 +1,8 @@
+Login: JULIA -Senha: julia123 -Email: @anajulia
+Login: CAROL -Senha: carol123 -Email: carol123@
+User: Xolo -Senha: xolo123 -Email: xolo@gmail.com
+User: FUCHIQUEIRA -Senha: 1234 -Email: FU@gmail.com
+User: GABRIEL -Senha: gabriel1 -Email: gabriel@gmail.com
+User: GABRIELA -Senha: gabriela -Email: gabriela@gmail.com
+User: jujujuj -Senha: juhuhu -Email: 890898098
+User: ijijijj -Senha: jijijiji -Email: 89098909809
